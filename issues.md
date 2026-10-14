@@ -1,4 +1,4 @@
-# Lab 5: Static Code Analysis — Issues
+# Static Code Analysis — Issues
 
 | Issue | Type | Line(s) in Original Code | Description | Fix Approach |
 |---|---|---|---|---|
@@ -18,4 +18,4 @@
 
 **6.07/10**
 
-The findings above are based on the original program and the supplied reports. Line numbers may change after editing.
+
